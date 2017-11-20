@@ -29,4 +29,4 @@ bday(name = "Merritt")
  
 Getting help
 ------------
-For additional information on these functions, please see the given documentation in the `gingr` package by adding the `?` help operator before any of the given functions in this package or by using the `help()` function.
+For additional information on these functions, please see the given documentation in the `bday` package by adding the `?` help operator before any of the given functions in this package or by using the `help()` function.
