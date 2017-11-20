@@ -1,0 +1,11 @@
+Package: bday
+Version: 0.5-2
+Date: 2017-11-20
+Title: Birthday Gift Generator
+Authors@R: c(person("Brandon", "Monier", role = c("aut", "cre"),
+                     email = "brandon.monier@sdstate.edu"))
+Maintainer: Brandon Monier <brandon.monier@sdstate.edu>
+Description: Functionality to automate birthday presents for fellow recipients.
+License: GPL (>= 2)	
+Depends: R (>= 3.1.0)
+URL: https://github.com/btmonier/bday
