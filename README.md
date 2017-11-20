@@ -11,9 +11,7 @@ Installation
 The easiest way to obtain this package is to install `devtools` and pull the package contents directly from GitHub.
 
 ``` r
-# Development version from GitHub
-# install.packages('devtools')
-
+if (!require("devtools")) install.packages("devtools")
 devtools::install_github('btmonier/bday')
 ```
 
