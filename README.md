@@ -12,7 +12,7 @@ The easiest way to obtain this package is to install `devtools` and pull the pac
 
 ``` r
 if (!require("devtools")) install.packages("devtools")
-devtools::install_github('btmonier/bday')
+devtools::install_github("btmonier/bday")
 ```
 
 Usage
